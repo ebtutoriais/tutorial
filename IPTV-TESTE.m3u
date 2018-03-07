@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="CFX" tvg-name="FX" tvg-logo="http://img.miptv.ws/FX.png" group-title="Filmes e Séries",FX
+http://cdn.miptv.ws:25463/live/jbndx/jbnhf/833.ts
+#EXTINF:-1 tvg-ID="CFX" tvg-name="FX HD" tvg-logo="http://img.miptv.ws/FX.png" group-title="Filmes e Séries",FX HD
+http://cdn.miptv.ws:25463/live/jbndx/jbnhf/832.ts
+#EXTINF:-1 tvg-ID="HBO" tvg-name="HBO" tvg-logo="http://img.miptv.ws/HBO.png" group-title="Filmes e Séries",HBO
+http://cdn.miptv.ws:25463/live/jbndx/jbnhf/820.ts
+#EXTINF:-1 tvg-ID="SEH" tvg-name="Sony HD" tvg-logo="http://img.miptv.ws/Canal_Sony.png" group-title="Filmes e Séries",Sony HD
+http://cdn.miptv.ws:25463/live/jbndx/jbnhf/880.ts
+#EXTINF:-1 tvg-ID="CCE" tvg-name="Comedy Central" tvg-logo="http://img.miptv.ws/Comedy_Central.png" group-title="Variedades",Comedy Central
+http://cdn.miptv.ws:25463/live/jbndx/jbnhf/873.ts
