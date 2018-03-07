@@ -10,7 +10,7 @@
   </channel>
   <channel id="HBO">
     <display-name lang="pt">HBO</display-name>
-    <url>http://www.netcombo.com.br</url>
+    <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Sony HD">
     <display-name lang="pt">Sony HD</display-name>
@@ -571,12 +571,6 @@
   </programme>
   <programme start="20180307073000 -0400" stop="20180307080000 -0400" channel="FX HD">
     <title lang="pt">Infomercial</title>
-    <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
-    <category lang="pt">Variedades</category>
-    <episode-num system="onscreen">S5 E70</episode-num>
-    <rating system="BR">
-      <value>L</value>
-    </rating>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -585,7 +579,7 @@
     <title lang="pt">Infomercial</title>
     <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
     <category lang="pt">Variedades</category>
-    <episode-num system="onscreen">S5 E70</episode-num>
+    <episode-num system="onscreen">S1 E70</episode-num>
     <rating system="BR">
       <value>L</value>
     </rating>
@@ -597,7 +591,7 @@
     <title lang="pt">Infomercial</title>
     <desc lang="pt">Espaço publicitário para divulgação de produtos e serviços(n)</desc>
     <category lang="pt">Variedades</category>
-    <episode-num system="onscreen">S5 E70</episode-num>
+    <episode-num system="onscreen">S1 E70</episode-num>
     <rating system="BR">
       <value>L</value>
     </rating>
@@ -854,6 +848,22 @@
     <star-rating>
       <value>3.0</value>
     </star-rating>
+  </programme>
+  <programme start="20180307192500 -0300" stop="20180307202500 -0300" channel="HBO">
+    <title lang="pt">O Homem da Sua Vida</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20180307202500 -0300" stop="20180307220000 -0300" channel="HBO">
+    <title lang="pt">Te Pego na Saída</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180307220000 -0300" stop="20180307234500 -0300" channel="HBO">
+    <title lang="pt">A Noite é Delas</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180307234500 -0300" stop="20180308012000 -0300" channel="HBO">
+    <title lang="pt">Cinquenta Tons de Preto</title>
+    <category lang="pt">Filme/Comédia</category>
   </programme>
   <programme start="20180307000000 -0300" stop="20180307010000 -0300" channel="Sony HD">
     <title lang="pt">Fugitivos, Da Marvel - S1E6</title>
